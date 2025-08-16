@@ -1,6 +1,6 @@
 # Transcrição do Debate Econômico em Formato Online
 
-- Guilherme Ok
-- Natalia
-- Pilar
+- Guilherme Ok Ok
+- Natalia ok
+- Pilar Ok
 - Victor ok
