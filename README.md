@@ -2,5 +2,5 @@
 
 - Guilherme Ok Ok
 - Natalia ok
-- Pilar
+- Pilar Ok
 - Victor
