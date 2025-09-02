@@ -19,7 +19,7 @@ def main():
         link = st.text_input("Insira seu link aqui:",
             placeholder="COLAR LINK AQUI",
             key="link_input")
-        submitted = st.form_submit_button("Concluir")
+        submitted = st.form_submit_button("Enviar")
 
 if __name__ == "__main__":
     main()
