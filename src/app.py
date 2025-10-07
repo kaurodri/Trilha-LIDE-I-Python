@@ -94,9 +94,10 @@ def main():
 
         if submitted:
             if link.strip() == "":
-                st.warning("⚠️ Por favor, insira um link válido!")
+                st.warning("⚠ Por favor, insira um link válido!")
             else:
                 st.success(f"✅ Link recebido: {link}")
 
 if __name__ == "__main__":
     main()
+
