@@ -18,13 +18,16 @@
 
    destaque os assuntos centrais e seus desdobramentos.
 
--  **Objetivo do vídeo:** 
+-  **Objetivo do vídeo** 
+
    o que o criador deseja transmitir?
 
--  **Público-alvo:** 
+-  **Público-alvo** 
+
    para quem o conteúdo parece ser direcionado?
 
--  **Tom e estilo:** 
+-  **Tom e estilo**
+ 
    linguagem formal/informal, educativa, técnica, opinativa, etc.
 
 ## Conclusão
@@ -33,9 +36,3 @@
 
 ## Observações Finais (caso existam)
    - Se houver linguagem inadequada, conteúdo sensível, polêmico ou passível de críticas, comente aqui.
-
-
-### Abaixo está a transcrição do vídeo
-
-\"\"\"{transcricao_do_video}\"\"\"
-"""
