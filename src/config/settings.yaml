@@ -1,0 +1,7 @@
+format: bestaudio/bestaudio
+
+outtmpl: ./src/temp/audio.%(ext)s
+
+postprocessors:
+  - key: FFmpegExtractAudio
+    preferredcodec: opus
